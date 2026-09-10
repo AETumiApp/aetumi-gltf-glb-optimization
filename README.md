@@ -20,3 +20,13 @@ Built by **[AETumi](https://aetumi.app)** — AI-native 3D websites, components 
 
 ## License
 MIT © AETumi Corp
+
+## Explore the AETumi library
+
+Production-ready 3D web you can own the source of — from [AETumi](https://aetumi.app), the AI-native 3D web platform:
+
+- [Three.js website templates & 3D components](https://aetumi.app/threejs/)
+- [WebGL website examples, shaders & components](https://aetumi.app/webgl/)
+- [3D web components (Three.js & WebGL)](https://aetumi.app/3d-components/)
+
+Build 3D web directly from your AI assistant with the [AETumi MCP for AI coding](https://aetumi.app/mcp/) — `claude mcp add --transport http aetumi https://mcp.aetumi.app`
